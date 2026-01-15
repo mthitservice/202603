@@ -1,0 +1,37 @@
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>System.Management.Automation.PSCustomObject</T>
+      <T>System.Object</T>
+    </TN>
+    <MS>
+      <S N="Vorname">Max</S>
+      <S N="Nachname">Mustermann</S>
+      <I64 N="Alter">29</I64>
+      <S N="Beruf">IT-Administrator</S>
+      <Obj N="Location" RefId="1">
+        <TNRef RefId="0" />
+        <MS>
+          <S N="PLZ">12345</S>
+          <S N="Stadt">Musterstadt</S>
+        </MS>
+      </Obj>
+    </MS>
+  </Obj>
+  <Obj RefId="2">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="Vorname">Sabine</S>
+      <S N="Nachname">Musterfrau</S>
+      <I64 N="Alter">30</I64>
+      <S N="Beruf">IT-Administrator</S>
+      <Obj N="Location" RefId="3">
+        <TNRef RefId="0" />
+        <MS>
+          <S N="PLZ">123451</S>
+          <S N="Stadt">Musterstadt1</S>
+        </MS>
+      </Obj>
+    </MS>
+  </Obj>
+</Objs>

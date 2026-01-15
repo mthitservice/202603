@@ -1,0 +1,22 @@
+[
+  {
+    "Vorname": "Max",
+    "Nachname": "Mustermann",
+    "Alter": 29,
+    "Beruf": "IT-Administrator",
+    "Location": {
+      "PLZ": "12345",
+      "Stadt": "Musterstadt"
+    }
+  },
+  {
+    "Vorname": "Sabine",
+    "Nachname": "Musterfrau",
+    "Alter": 30,
+    "Beruf": "IT-Administrator",
+    "Location": {
+      "PLZ": "123451",
+      "Stadt": "Musterstadt1"
+    }
+  }
+]

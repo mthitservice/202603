@@ -1,0 +1,720 @@
+
+Status   Name               DisplayName
+------   ----               -----------
+Stopped  AarSvc_35251f6f    Agent Activation Runtime_35251f6f
+Running  AdobeARMservice    Adobe Acrobat Update Service
+Running  AdobeUpdateService AdobeUpdateService
+Stopped  ADPSvc             Aggregierter Datenplattformdienst
+Stopped  ALG                Gatewaydienst auf Anwendungsebene
+Stopped  AppIDSvc           Anwendungsidentität
+Running  Appinfo            Anwendungsinformationen
+Running  Apple Mobile Devi… Apple Mobile Device Service
+Stopped  AppMgmt            Anwendungsverwaltung
+Stopped  AppReadiness       App-Vorbereitung
+Stopped  AppVClient         Microsoft App-V Client
+Running  AppXSvc            AppX-Bereitstellungsdienst (AppXSVC)
+Stopped  ApxSvc             Proxydienst für virtuelle Windows-Aud…
+Stopped  aspnet_state       ASP.NET State Service
+Stopped  AssignedAccessMan… AssignedAccessManager-Dienst
+Running  AudioEndpointBuil… Windows-Audio-Endpunkterstellung
+Running  Audiosrv           Windows-Audio
+Stopped  autotimesvc        Mobilfunkzeit
+Stopped  AxInstSV           ActiveX-Installer (AxInstSV)
+Stopped  BarcoClickShareAu… Barco ClickShare Autorun Service
+Stopped  BcastDVRUserServi… Benutzerdienst für GameDVR und Übertr…
+Running  BDESVC             BitLocker-Laufwerkverschlüsselungsdie…
+Running  BFE                Basisfiltermodul
+Running  BITS               Background Intelligent Transfer Servi…
+Running  BluetoothUserServ… Bluetooth-Unterstützungsdienst für Be…
+Running  Bonjour Service    Dienst "Bonjour"
+Running  BrokerInfrastruct… Infrastrukturdienst für Hintergrundau…
+Running  BTAGService        Bluetooth-Audiogateway-Dienst
+Running  BthAvctpSvc        AVCTP-Dienst
+Running  bthserv            Bluetooth-Unterstützungsdienst
+Stopped  c2wts              Claims to Windows Token Service (C2WT…
+Running  camsvc             Manager-Dienst für den Funktionszugri…
+Stopped  CaptureService_35… CaptureService_35251f6f
+Running  cbdhsvc_35251f6f   Zwischenablage-Benutzerdienst_35251f6f
+Running  CDPSvc             Plattformdienst für verbundene Geräte
+Running  CDPUserSvc_35251f… Benutzerdienst für die Plattform für …
+Running  CertPropSvc        Zertifikatverteilung
+Running  ClickToRunSvc      Microsoft Office-Klick-und-Los-Dienst
+Running  ClipSVC            Clientlizenzdienst (ClipSVC)
+Stopped  CloudBackupRestor… Cloudsicherungs- und -wiederherstellu…
+Stopped  cloudidsvc         Microsoft-Cloudidentitätsdienst
+Running  CmWebAdmin.exe     CmWebAdmin
+Running  CodeMeter.exe      CodeMeter Runtime Server
+Stopped  CODESYS Control W… CODESYS Control Win V3 Version 3.5.16…
+Running  CODESYS Gateway V3 CODESYS Gateway V3 Version 3.5.16.30
+Running  CODESYS ServiceCo… CODESYS ServiceControl Version 3.5.16…
+Stopped  com.docker.service Docker Desktop Service
+Stopped  COMSysApp          COM+-Systemanwendung
+Stopped  ConsentUxUserSvc_… ConsentUX Benutzerdienst_35251f6f
+Running  CoreMessagingRegi… CoreMessaging
+Running  cphs               Intel(R) Content Protection HECI Serv…
+Running  cplspcon           Intel(R) Content Protection HDCP Serv…
+Stopped  CredentialEnrollm… CredentialEnrollmentManagerUserSvc_35…
+Running  CryptSvc           Kryptografiedienste
+Stopped  CscService         Offlinedateien
+Running  DcomLaunch         DCOM-Server-Prozessstart
+Stopped  dcpm-notify        Dell Command | Power Manager Notify
+Stopped  dcsvc              Deklarierter Konfigurationsdienst (DC)
+Stopped  defragsvc          Laufwerke optimieren
+Running  Dell Digital Deli… Dell Digital Delivery Services
+Running  Dell SupportAssis… Dell SupportAssist Remediation
+Stopped  Dell.CommandPower… Dell.CommandPowerManager.Service
+Running  DellClientManagem… Dell Client Management Service
+Running  DellTechHub        Dell TechHub
+Stopped  DeviceAssociation… DeviceAssociationBroker_35251f6f
+Running  DeviceAssociation… Gerätezuordnungsdienst
+Running  DeviceInstall      Geräteinstallationsdienst
+Stopped  DevicePickerUserS… DevicePicker_35251f6f
+Running  DevicesFlowUserSv… DevicesFlow_35251f6f
+Running  DevQueryBroker     Broker für DevQuery-Hintergrundermitt…
+Running  Dhcp               DHCP-Client
+Stopped  diagsvc            Diagnostic Execution Service
+Running  DiagTrack          Benutzererfahrungen und Telemetrie im…
+Stopped  DialogBlockingSer… DialogBlockingService
+Running  DispBrokerDesktop… Anzeigerichtliniendienst
+Running  DisplayEnhancemen… Anzeigeverbesserungsdienst
+Stopped  DmEnrollmentSvc    Registrierungsdienst für die Geräteve…
+Stopped  dmwappushservice   WAP-Push-Nachrichten Routing-Dienst (…
+Running  Dnscache           DNS-Client
+Running  DoSvc              Übermittlungsoptimierung
+Stopped  dot3svc            Automatische Konfiguration (verkabelt)
+Running  DPS                Diagnoserichtliniendienst
+Stopped  DsmSvc             Geräteinstallations-Manager
+Running  DsSvc              Datenfreigabedienst
+Running  DusmSvc            Datennutzung
+Stopped  EapHost            Extensible Authentication-Protokoll
+Stopped  edgeupdate         Microsoft Edge Update Service (edgeup…
+Stopped  edgeupdatem        Microsoft Edge Update Service (edgeup…
+Stopped  EFS                Verschlüsselndes Dateisystem (EFS)
+Stopped  embeddedmode       Eingebetteter Modus
+Stopped  EntAppSvc          Verwaltungsdienst für Unternehmens-Ap…
+Running  esifsvc            Intel(R) Dynamic Tuning service
+Running  EventLog           Windows-Ereignisprotokoll
+Running  EventSystem        COM+-Ereignissystem
+Stopped  Fax                Fax
+Running  fdPHost            Funktionssuchanbieter-Host
+Running  FDResPub           Funktionssuche-Ressourcenveröffentlic…
+Stopped  fhsvc              Dateiversionsverlauf-Dienst
+Running  FileSyncHelper     FileSyncHelper
+Running  FontCache          Windows-Dienst für Schriftartencache
+Running  FrameServer        Windows-Kamera-FrameServer
+Stopped  FrameServerMonitor Windows-Kamera-Frame-Server-Monitor
+Stopped  FvSvc              NVIDIA FrameView SDK service
+Stopped  GameInputRedistSe… GameInput Redist Service
+Stopped  GameInputSvc       GameInput Service
+Running  GamingServices     Gaming Services
+Running  GamingServicesNet  Gaming Services
+Stopped  GoogleChromeEleva… Google Chrome Elevation Service (Goog…
+Stopped  GoogleUpdaterInte… Google Updater Internal Service (Goog…
+Stopped  GoogleUpdaterServ… Google Updater Service (GoogleUpdater…
+Running  gpsvc              Gruppenrichtlinienclient
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc
+Stopped  gupdate            Google Update-Dienst (gupdate)
+Stopped  gupdatem           Google Update-Dienst (gupdatem)
+Stopped  HfcDisableService  Intel(R) RST HFC Disable Service
+Stopped  HgClientService    Dienst des Host-Überwachungsclients
+Running  hidserv            Eingabegerätedienst
+Running  HNS                Hostnetzwerkdienst
+Stopped  hpatchmon          Hotpatch Monitoring Service
+Stopped  HPPrintScanDoctor… HP Print Scan Doctor Service
+Running  HvHost             HV-Hostdienst
+Stopped  iaStorAfsService   Intel(R) Optane(TM) Memory Service
+Running  icssvc             Windows-Dienst für mobile Hotspots
+Running  igccservice        Intel(R) Graphics Command Center Serv…
+Running  igfxCUIService2.0… Intel(R) HD Graphics Control Panel Se…
+Running  IKEEXT             IKE- und AuthIP IPsec-Schlüsselerstel…
+Running  InstallService     Microsoft Store-Installationsdienst
+Stopped  Intel(R) TPM Prov… Intel(R) TPM Provisioning Service
+Running  IntelAudioService  Intel(R) Audio Service
+Running  IntuneManagementE… Microsoft Intune Management Extension
+Running  InventorySvc       Inventur- und Kompatibilitätssentität…
+Running  iphlpsvc           IP-Hilfsdienst
+Running  IpOverUsbSvc       Windows Phone IP over USB Transport (…
+Stopped  IpxlatCfgSvc       Konfigurationsdienst für die IP-Übers…
+Running  jhi_service        Intel(R) Dynamic Application Loader H…
+Running  KAPSService        Killer Smart AP Selection Service
+Running  KeyIso             CNG-Schlüsselisolation
+Running  Killer Analytics … Killer Analytics Service
+Running  Killer Network Se… Killer Network Service
+Stopped  Killer Provider D… Killer Provider Data Helper Service
+Running  KNDBWM             Killer Dynamic Bandwidth Management
+Stopped  KtmRm              KtmRm für Distributed Transaction Coo…
+Running  LanmanServer       Server
+Running  LanmanWorkstation  Arbeitsstationsdienst
+Running  lfsvc              Geolocation-Dienst
+Running  LicenseManager     Windows-Lizenz-Manager-Dienst
+Stopped  lltdsvc            Verbindungsschicht-Topologieerkennung…
+Running  lmhosts            TCP/IP-NetBIOS-Hilfsdienst
+Stopped  LocalKdc           Lokales Kerberos-Schlüsselverteilungs…
+Running  LogiSyncStub       LogiSyncStub Service
+Running  logi_lamparray_se… Logitech LampArray Service
+Running  LSM                Lokaler Sitzungs-Manager
+Stopped  LTUhrRemoteAPI     LTUhr Remote API Service
+Stopped  LxpSvc             Sprachumgebungsdienst
+Stopped  MapsBroker         Manager für heruntergeladene Karten
+Running  McAfee WebAdvisor  McAfee WebAdvisor
+Stopped  McmSvc             Verwaltungsdienst für mobile Konnekti…
+Running  McpManagementServ… McpManagementService
+Running  MDCoreSvc          MDCoreSvc
+Stopped  MessagingService_… MessagingService_35251f6f
+Stopped  MicrosoftEdgeElev… Microsoft Edge Elevation Service (Mic…
+Stopped  MicrosoftSearchIn… Microsoft Search in Bing
+Stopped  midisrv            Windows MIDI-Dienst
+Running  mpssvc             Windows Defender Firewall
+Running  MSDTC              Distributed Transaction Coordinator
+Stopped  MSiSCSI            Microsoft iSCSI-Initiator-Dienst
+Stopped  msiserver          Windows Installer
+Stopped  MsKeyboardFilter   Microsoft-Tastaturfilter
+Stopped  NaturalAuthentica… Natürliche Authentifizierung
+Stopped  NcaSvc             Netzwerkkonnektivitäts-Assistent
+Running  NcbService         Netzwerkverbindungsbroker
+Stopped  NcdAutoSetup       Autom. Setup von Geräten, die mit dem…
+Stopped  Net Driver HPZ12   Net Driver HPZ12
+Running  Netlogon           Anmeldedienst
+Running  Netman             Netzwerkverbindungen
+Running  netprofm           Netzwerklistendienst
+Stopped  NetSetupSvc        Netzwerkeinrichtungsdienst
+Stopped  NetTcpPortSharing  Net.Tcp-Portfreigabedienst
+Running  NgcCtnrSvc         Microsoft Passport-Container
+Running  NgcSvc             Microsoft Passport
+Stopped  NlaSvc             NLA (Network Location Awareness)
+Running  NPSMSvc_35251f6f   Sitzungs-Manager-Dienst für die aktue…
+Running  nsi                Netzwerkspeicher-Schnittstellendienst
+Running  nvagent            Netzwerkvirtualisierungsdienst
+Running  NVDisplay.Contain… NVIDIA Display Container LS
+Stopped  OneDrive Updater … OneDrive Updater Service
+Running  OneSyncSvc_35251f… Synchronisierungshost_35251f6f
+Stopped  OpcEnum            OpcEnum
+Running  OpenVPNServiceInt… OpenVPN Interactive Service
+Stopped  ose                Office  Source Engine
+Stopped  P9RdrService_3525… P9RdrService_35251f6f
+Running  PcaSvc             Programmkompatibilitäts-Assistent-Die…
+Stopped  PeerDistSvc        BranchCache
+Stopped  PenService_35251f… PenService_35251f6f
+Stopped  perceptionsimulat… Windows Perception Simulation Service
+Stopped  PerfHost           Leistungsindikator-DLL-Host
+Running  PhoneSvc           Telefondienst
+Running  PimIndexMaintenan… Kontaktdaten_35251f6f
+Stopped  pla                Leistungsprotokolle und -warnungen
+Running  PlantronicsUpdate… Plantronics Update Service
+Running  PlugPlay           Plug & Play
+Stopped  Pml Driver HPZ12   Pml Driver HPZ12
+Running  PolicyAgent        IPsec-Richtlinien-Agent
+Running  Power              Stromversorgung
+Stopped  PrintDeviceConfig… Konfigurationsdienst für Druckgeräte
+Stopped  PrintNotify        Druckererweiterungen und -benachricht…
+Stopped  PrintScanBrokerSe… PrintScanBrokerService
+Stopped  PrintWorkflowUser… PrintWorkflow_35251f6f
+Running  ProfSvc            Benutzerprofildienst
+Stopped  PushToInstall      Windows PushToInstall-Dienst
+Running  QcomWlanSrv        Qualcomm Atheros WLAN Driver Service
+Stopped  QWAVE              Verbessertes Windows-Audio/Video-Stre…
+Stopped  RasAuto            Verwaltung für automatische RAS-Verbi…
+Running  RasMan             RAS-Verbindungsverwaltung
+Stopped  refsdedupsvc       ReFS-Deduplizierungsdienst
+Stopped  RemoteAccess       Routing und RAS
+Stopped  RemoteRegistry     Remoteregistrierung
+Stopped  RetailDemo         Dienst für Einzelhandelsdemos
+Running  RmSvc              Funkverwaltungsdienst
+Running  RpcEptMapper       RPC-Endpunktzuordnung
+Stopped  RpcLocator         RPC-Locator
+Running  RpcSs              Remoteprozeduraufruf (RPC)
+Running  RstMwService       Intel(R) Storage Middleware Service
+Running  RtkAudioUniversal… Realtek Audio Universal Service
+Running  Sage AutoUpdate M… Sage AutoUpdate Manager Service v2
+Stopped  Sage Cloud Connec… Sage Cloud Connectivity Client
+Stopped  Sage50Communicati… Sage 50 Kommunikationsdienst
+Running  SageDB 8.0         SageDB 8.0
+Running  SageLoggingService Sage Logging Service
+Running  SageMultiUserServ… Sage Mehrbenutzerdienst 4.0
+Running  SamSs              Sicherheitskonto-Manager
+Stopped  SCardSvr           Smartcard
+Stopped  ScDeviceEnum       Smartcard-Geräteaufzählungsdienst
+Running  Schedule           Aufgabenplanung
+Stopped  SCPolicySvc        Richtlinie zum Entfernen der Scmartca…
+Stopped  SDRSVC             Windows-Sicherung
+Running  seclogon           Sekundäre Anmeldung
+Running  SecurityHealthSer… Windows-Sicherheitsdienst
+Stopped  SEMgrSvc           Zahlungs- und NFC/SE-Manager
+Running  SENS               Benachrichtigungsdienst für Systemere…
+Stopped  Sense              Sense
+Stopped  SensorDataService  Sensordatendienst
+Running  SensorService      Sensordienst
+Stopped  SensrSvc           Sensorüberwachungsdienst
+Running  SessionEnv         Konfiguration für Remotedesktops
+Running  SessionSvc         Session Detection
+Running  SharedAccess       Gemeinsame Nutzung der Internetverbin…
+Running  ShellHWDetection   Shellhardwareerkennung
+Stopped  shpamsvc           Shared PC Account Manager
+Running  smphost            Microsoft-SMP für Speicherplätze
+Running  SmsRouter          Microsoft Windows SMS-Routerdienst.
+Stopped  SNMPTrap           SNMP-Trap
+Running  Spooler            Druckwarteschlange
+Stopped  sppsvc             Software Protection
+Running  SQLWriter          SQL Server VSS Writer
+Running  SSDPSRV            SSDP-Suche
+Stopped  ssh-agent          OpenSSH Authentication Agent
+Running  SstpSvc            SSTP-Dienst
+Running  StateRepository    StateRepository-Dienst
+Stopped  Steam Client Serv… Steam Client Service
+Running  StiSvc             Windows-Bilderfassung (WIA)
+Running  StorSvc            Speicherdienst
+Running  SupportAssistAgent Dell SupportAssist
+Stopped  svsvc              Echtzeit-Datenträgerprüfung
+Stopped  swprv              Microsoft-Softwareschattenkopie-Anbie…
+Running  SysMain            SysMain
+Running  SystemEventsBroker Systemereignissebroker
+Stopped  TapiSrv            Telefonie
+Running  TbtHostController… Thunderbolt(TM) Application Launcher
+Running  TbtP2pShortcutSer… Thunderbolt(TM) Peer to Peer Shortcut
+Running  TeamViewer         TeamViewer
+Running  TermService        Remotedesktopdienste
+Running  TextInputManageme… Texteingabeverwaltungsdienst
+Running  Themes             Designs
+Stopped  TieringEngineServ… Storage Tiers Management
+Running  TimeBrokerSvc      Zeitbroker
+Running  TISmartAmpService  TI SmartAmp Service
+Running  TokenBroker        Web Account Manager
+Running  TrkWks             Überwachung verteilter Verknüpfungen …
+Stopped  TroubleshootingSvc Dienst für empfohlene Problembehandlu…
+Stopped  TrustedInstaller   Windows Modules Installer
+Stopped  tzautoupdate       Automatische Zeitzonenaktualisierung
+Running  UdkUserSvc_35251f… Udk-Benutzerdienst_35251f6f
+Stopped  UevAgentService    User Experience Virtualization-Dienst
+Running  UmRdpService       Anschlussumleitung für Remotedesktopd…
+Running  UnistoreSvc_35251… Benutzerdatenspeicher _35251f6f
+Stopped  upnphost           UPnP-Gerätehost
+Running  UserDataSvc_35251… Benutzerdatenzugriff_35251f6f
+Running  UserManager        Benutzer-Manager
+Running  UsoSvc             Update Orchestrator Service
+Running  VaultSvc           Anmeldeinformationsverwaltung
+Stopped  vds                Virtueller Datenträger
+Running  vmcompute          Hyper-V-Hostserverdienst
+Stopped  vmicguestinterface Hyper-V-Gastdienstschnittstelle
+Stopped  vmicheartbeat      Hyper-V-Taktdienst
+Stopped  vmickvpexchange    Hyper-V-Datenaustauschdienst
+Stopped  vmicrdv            Hyper-V-Remotedesktopvirtualisierungs…
+Stopped  vmicshutdown       Hyper-V-Dienst zum Herunterfahren des…
+Stopped  vmictimesync       Hyper-V-Dienst für Zeitsynchronisieru…
+Stopped  vmicvmsession      Hyper-V PowerShell Direct-Dienst
+Stopped  vmicvss            Hyper-V-Volumeschattenkopie-Anforderer
+Running  vmms               Hyper-V-Verwaltung für virtuelle Comp…
+Stopped  VSInstallerElevat… Visual Studio Installer Elevation Ser…
+Stopped  VSS                Volumeschattenkopie
+Stopped  VSStandardCollect… Visual Studio Standard Collector Serv…
+Running  W32Time            Windows-Zeitgeber
+Stopped  WaaSMedicSvc       WaaSMedicSvc
+Stopped  WalletService      WalletService
+Stopped  WarpJITSvc         Warp JIT Service
+Running  WavesSysSvc        Waves Audio Services
+Stopped  wbengine           Blockebenen-Sicherungsmodul
+Running  WbioSrvc           Windows-Biometriedienst
+Running  Wcmsvc             Windows-Verbindungs-Manager
+Stopped  wcncsvc            Windows-Sofortverbindung - Konfigurat…
+Running  WDDriveService     WD Drive Manager
+Running  WdiServiceHost     Diagnosediensthost
+Running  WdiSystemHost      Diagnosesystemhost
+Running  WdNisSvc           Microsoft Defender Antivirus-Netzwerk…
+Running  WebClient          WebClient
+Running  webthreatdefsvc    Web Threat Defense-Dienst
+Running  webthreatdefusers… Web Threat Defense-Benutzerdienst_352…
+Stopped  Wecsvc             Windows-Ereignissammlung
+Stopped  WEPHOSTSVC         Hostdienst für Windows Encryption Pro…
+Stopped  wercplsupport      Unterstützung in der Systemsteuerung …
+Stopped  WerSvc             Windows-Fehlerberichterstattungsdienst
+Stopped  WFDSConMgrSvc      Verbindungs-Manager-Dienst von Wi-Fi …
+Running  whesvc             Windows-Integrität und optimierte Obe…
+Stopped  WiaRpc             Ereignisse zum Abrufen von Standbilde…
+Running  WinDefend          Microsoft Defender Antivirus-Dienst
+Running  WinHttpAutoProxyS… WinHTTP-Web Proxy Auto-Discovery-Dien…
+Running  Winmgmt            Windows-Verwaltungsinstrumentation
+Stopped  WinRM              Windows-Remoteverwaltung (WS-Verwaltu…
+Stopped  wisvc              Windows-Insider-Dienst
+Running  WlanSvc            Automatische WLAN-Konfiguration
+Stopped  wlidsvc            Anmelde-Assistent für Microsoft-Konten
+Stopped  wlpasvc            Dienst "Assistent für lokale Profile"
+Stopped  WManSvc            Windows-Verwaltungsdienst
+Running  wmiApSrv           WMI-Leistungsadapter
+Running  WMIRegistrationSe… Intel(R) Management Engine WMI Provid…
+Stopped  WMPNetworkSvc      Windows Media Player-Netzwerkfreigabe…
+Stopped  workfolderssvc     Arbeitsordner
+Stopped  WpcMonSvc          Jugendschutz
+Stopped  WPDBusEnum         Enumeratordienst für tragbare Geräte
+Running  WpnService         Windows-Pushbenachrichtigungssystemdi…
+Running  WpnUserService_35… Windows-Pushbenachrichtigungs-Benutze…
+Running  WSAIFabricSvc      WSAIFabricSvc
+Running  wscsvc             Sicherheitscenter
+Running  WSearch            Windows Search
+Running  WSLService         WSL Service
+Stopped  wuauserv           Windows Update
+Stopped  wuqisvc            Microsoft-Erkenntnisse zu Nutzung und…
+Stopped  WwanSvc            WWAN - automatische Konfiguration
+Stopped  XblAuthManager     Xbox Live Authentifizierungs-Manager
+Stopped  XblGameSave        Xbox Live-Spiele speichern
+Stopped  XboxGipSvc         Xbox Accessory Management Service
+Stopped  XboxNetApiSvc      Xbox Live-Netzwerkservice
+
+
+Status   Name               DisplayName
+------   ----               -----------
+Stopped  AarSvc_35251f6f    Agent Activation Runtime_35251f6f
+Running  AdobeARMservice    Adobe Acrobat Update Service
+Running  AdobeUpdateService AdobeUpdateService
+Stopped  ADPSvc             Aggregierter Datenplattformdienst
+Stopped  ALG                Gatewaydienst auf Anwendungsebene
+Stopped  AppIDSvc           Anwendungsidentität
+Running  Appinfo            Anwendungsinformationen
+Running  Apple Mobile Devi… Apple Mobile Device Service
+Stopped  AppMgmt            Anwendungsverwaltung
+Stopped  AppReadiness       App-Vorbereitung
+Stopped  AppVClient         Microsoft App-V Client
+Running  AppXSvc            AppX-Bereitstellungsdienst (AppXSVC)
+Stopped  ApxSvc             Proxydienst für virtuelle Windows-Aud…
+Stopped  aspnet_state       ASP.NET State Service
+Stopped  AssignedAccessMan… AssignedAccessManager-Dienst
+Running  AudioEndpointBuil… Windows-Audio-Endpunkterstellung
+Running  Audiosrv           Windows-Audio
+Stopped  autotimesvc        Mobilfunkzeit
+Stopped  AxInstSV           ActiveX-Installer (AxInstSV)
+Stopped  BarcoClickShareAu… Barco ClickShare Autorun Service
+Stopped  BcastDVRUserServi… Benutzerdienst für GameDVR und Übertr…
+Running  BDESVC             BitLocker-Laufwerkverschlüsselungsdie…
+Running  BFE                Basisfiltermodul
+Running  BITS               Background Intelligent Transfer Servi…
+Running  BluetoothUserServ… Bluetooth-Unterstützungsdienst für Be…
+Running  Bonjour Service    Dienst "Bonjour"
+Running  BrokerInfrastruct… Infrastrukturdienst für Hintergrundau…
+Running  BTAGService        Bluetooth-Audiogateway-Dienst
+Running  BthAvctpSvc        AVCTP-Dienst
+Running  bthserv            Bluetooth-Unterstützungsdienst
+Stopped  c2wts              Claims to Windows Token Service (C2WT…
+Running  camsvc             Manager-Dienst für den Funktionszugri…
+Stopped  CaptureService_35… CaptureService_35251f6f
+Running  cbdhsvc_35251f6f   Zwischenablage-Benutzerdienst_35251f6f
+Running  CDPSvc             Plattformdienst für verbundene Geräte
+Running  CDPUserSvc_35251f… Benutzerdienst für die Plattform für …
+Running  CertPropSvc        Zertifikatverteilung
+Running  ClickToRunSvc      Microsoft Office-Klick-und-Los-Dienst
+Stopped  ClipSVC            Clientlizenzdienst (ClipSVC)
+Stopped  CloudBackupRestor… Cloudsicherungs- und -wiederherstellu…
+Stopped  cloudidsvc         Microsoft-Cloudidentitätsdienst
+Running  CmWebAdmin.exe     CmWebAdmin
+Running  CodeMeter.exe      CodeMeter Runtime Server
+Stopped  CODESYS Control W… CODESYS Control Win V3 Version 3.5.16…
+Running  CODESYS Gateway V3 CODESYS Gateway V3 Version 3.5.16.30
+Running  CODESYS ServiceCo… CODESYS ServiceControl Version 3.5.16…
+Stopped  com.docker.service Docker Desktop Service
+Stopped  COMSysApp          COM+-Systemanwendung
+Stopped  ConsentUxUserSvc_… ConsentUX Benutzerdienst_35251f6f
+Running  CoreMessagingRegi… CoreMessaging
+Running  cphs               Intel(R) Content Protection HECI Serv…
+Running  cplspcon           Intel(R) Content Protection HDCP Serv…
+Stopped  CredentialEnrollm… CredentialEnrollmentManagerUserSvc_35…
+Running  CryptSvc           Kryptografiedienste
+Stopped  CscService         Offlinedateien
+Running  DcomLaunch         DCOM-Server-Prozessstart
+Stopped  dcpm-notify        Dell Command | Power Manager Notify
+Running  dcsvc              Deklarierter Konfigurationsdienst (DC)
+Stopped  defragsvc          Laufwerke optimieren
+Running  Dell Digital Deli… Dell Digital Delivery Services
+Running  Dell SupportAssis… Dell SupportAssist Remediation
+Stopped  Dell.CommandPower… Dell.CommandPowerManager.Service
+Running  DellClientManagem… Dell Client Management Service
+Running  DellTechHub        Dell TechHub
+Stopped  DeviceAssociation… DeviceAssociationBroker_35251f6f
+Running  DeviceAssociation… Gerätezuordnungsdienst
+Running  DeviceInstall      Geräteinstallationsdienst
+Stopped  DevicePickerUserS… DevicePicker_35251f6f
+Running  DevicesFlowUserSv… DevicesFlow_35251f6f
+Running  DevQueryBroker     Broker für DevQuery-Hintergrundermitt…
+Running  Dhcp               DHCP-Client
+Stopped  diagsvc            Diagnostic Execution Service
+Running  DiagTrack          Benutzererfahrungen und Telemetrie im…
+Stopped  DialogBlockingSer… DialogBlockingService
+Running  DispBrokerDesktop… Anzeigerichtliniendienst
+Running  DisplayEnhancemen… Anzeigeverbesserungsdienst
+Stopped  DmEnrollmentSvc    Registrierungsdienst für die Geräteve…
+Stopped  dmwappushservice   WAP-Push-Nachrichten Routing-Dienst (…
+Running  Dnscache           DNS-Client
+Running  DoSvc              Übermittlungsoptimierung
+Stopped  dot3svc            Automatische Konfiguration (verkabelt)
+Running  DPS                Diagnoserichtliniendienst
+Stopped  DsmSvc             Geräteinstallations-Manager
+Running  DsSvc              Datenfreigabedienst
+Running  DusmSvc            Datennutzung
+Stopped  EapHost            Extensible Authentication-Protokoll
+Stopped  edgeupdate         Microsoft Edge Update Service (edgeup…
+Stopped  edgeupdatem        Microsoft Edge Update Service (edgeup…
+Stopped  EFS                Verschlüsselndes Dateisystem (EFS)
+Stopped  embeddedmode       Eingebetteter Modus
+Stopped  EntAppSvc          Verwaltungsdienst für Unternehmens-Ap…
+Running  esifsvc            Intel(R) Dynamic Tuning service
+Running  EventLog           Windows-Ereignisprotokoll
+Running  EventSystem        COM+-Ereignissystem
+Stopped  Fax                Fax
+Running  fdPHost            Funktionssuchanbieter-Host
+Running  FDResPub           Funktionssuche-Ressourcenveröffentlic…
+Stopped  fhsvc              Dateiversionsverlauf-Dienst
+Running  FileSyncHelper     FileSyncHelper
+Running  FontCache          Windows-Dienst für Schriftartencache
+Running  FrameServer        Windows-Kamera-FrameServer
+Stopped  FrameServerMonitor Windows-Kamera-Frame-Server-Monitor
+Stopped  FvSvc              NVIDIA FrameView SDK service
+Stopped  GameInputRedistSe… GameInput Redist Service
+Stopped  GameInputSvc       GameInput Service
+Running  GamingServices     Gaming Services
+Running  GamingServicesNet  Gaming Services
+Stopped  GoogleChromeEleva… Google Chrome Elevation Service (Goog…
+Stopped  GoogleUpdaterInte… Google Updater Internal Service (Goog…
+Stopped  GoogleUpdaterServ… Google Updater Service (GoogleUpdater…
+Running  gpsvc              Gruppenrichtlinienclient
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc
+Stopped  gupdate            Google Update-Dienst (gupdate)
+Stopped  gupdatem           Google Update-Dienst (gupdatem)
+Stopped  HfcDisableService  Intel(R) RST HFC Disable Service
+Stopped  HgClientService    Dienst des Host-Überwachungsclients
+Running  hidserv            Eingabegerätedienst
+Running  HNS                Hostnetzwerkdienst
+Stopped  hpatchmon          Hotpatch Monitoring Service
+Stopped  HPPrintScanDoctor… HP Print Scan Doctor Service
+Running  HvHost             HV-Hostdienst
+Stopped  iaStorAfsService   Intel(R) Optane(TM) Memory Service
+Running  icssvc             Windows-Dienst für mobile Hotspots
+Running  igccservice        Intel(R) Graphics Command Center Serv…
+Running  igfxCUIService2.0… Intel(R) HD Graphics Control Panel Se…
+Running  IKEEXT             IKE- und AuthIP IPsec-Schlüsselerstel…
+Running  InstallService     Microsoft Store-Installationsdienst
+Stopped  Intel(R) TPM Prov… Intel(R) TPM Provisioning Service
+Running  IntelAudioService  Intel(R) Audio Service
+Running  IntuneManagementE… Microsoft Intune Management Extension
+Running  InventorySvc       Inventur- und Kompatibilitätssentität…
+Running  iphlpsvc           IP-Hilfsdienst
+Running  IpOverUsbSvc       Windows Phone IP over USB Transport (…
+Stopped  IpxlatCfgSvc       Konfigurationsdienst für die IP-Übers…
+Running  jhi_service        Intel(R) Dynamic Application Loader H…
+Running  KAPSService        Killer Smart AP Selection Service
+Running  KeyIso             CNG-Schlüsselisolation
+Running  Killer Analytics … Killer Analytics Service
+Running  Killer Network Se… Killer Network Service
+Stopped  Killer Provider D… Killer Provider Data Helper Service
+Running  KNDBWM             Killer Dynamic Bandwidth Management
+Stopped  KtmRm              KtmRm für Distributed Transaction Coo…
+Running  LanmanServer       Server
+Running  LanmanWorkstation  Arbeitsstationsdienst
+Running  lfsvc              Geolocation-Dienst
+Running  LicenseManager     Windows-Lizenz-Manager-Dienst
+Stopped  lltdsvc            Verbindungsschicht-Topologieerkennung…
+Running  lmhosts            TCP/IP-NetBIOS-Hilfsdienst
+Stopped  LocalKdc           Lokales Kerberos-Schlüsselverteilungs…
+Running  LogiSyncStub       LogiSyncStub Service
+Running  logi_lamparray_se… Logitech LampArray Service
+Running  LSM                Lokaler Sitzungs-Manager
+Stopped  LTUhrRemoteAPI     LTUhr Remote API Service
+Stopped  LxpSvc             Sprachumgebungsdienst
+Stopped  MapsBroker         Manager für heruntergeladene Karten
+Running  McAfee WebAdvisor  McAfee WebAdvisor
+Stopped  McmSvc             Verwaltungsdienst für mobile Konnekti…
+Running  McpManagementServ… McpManagementService
+Running  MDCoreSvc          MDCoreSvc
+Stopped  MessagingService_… MessagingService_35251f6f
+Stopped  MicrosoftEdgeElev… Microsoft Edge Elevation Service (Mic…
+Stopped  MicrosoftSearchIn… Microsoft Search in Bing
+Stopped  midisrv            Windows MIDI-Dienst
+Running  mpssvc             Windows Defender Firewall
+Running  MSDTC              Distributed Transaction Coordinator
+Stopped  MSiSCSI            Microsoft iSCSI-Initiator-Dienst
+Stopped  msiserver          Windows Installer
+Stopped  MsKeyboardFilter   Microsoft-Tastaturfilter
+Stopped  NaturalAuthentica… Natürliche Authentifizierung
+Stopped  NcaSvc             Netzwerkkonnektivitäts-Assistent
+Running  NcbService         Netzwerkverbindungsbroker
+Stopped  NcdAutoSetup       Autom. Setup von Geräten, die mit dem…
+Stopped  Net Driver HPZ12   Net Driver HPZ12
+Running  Netlogon           Anmeldedienst
+Running  Netman             Netzwerkverbindungen
+Running  netprofm           Netzwerklistendienst
+Stopped  NetSetupSvc        Netzwerkeinrichtungsdienst
+Stopped  NetTcpPortSharing  Net.Tcp-Portfreigabedienst
+Running  NgcCtnrSvc         Microsoft Passport-Container
+Running  NgcSvc             Microsoft Passport
+Stopped  NlaSvc             NLA (Network Location Awareness)
+Running  NPSMSvc_35251f6f   Sitzungs-Manager-Dienst für die aktue…
+Running  nsi                Netzwerkspeicher-Schnittstellendienst
+Running  nvagent            Netzwerkvirtualisierungsdienst
+Running  NVDisplay.Contain… NVIDIA Display Container LS
+Stopped  OneDrive Updater … OneDrive Updater Service
+Running  OneSyncSvc_35251f… Synchronisierungshost_35251f6f
+Stopped  OpcEnum            OpcEnum
+Running  OpenVPNServiceInt… OpenVPN Interactive Service
+Stopped  ose                Office  Source Engine
+Stopped  P9RdrService_3525… P9RdrService_35251f6f
+Running  PcaSvc             Programmkompatibilitäts-Assistent-Die…
+Stopped  PeerDistSvc        BranchCache
+Stopped  PenService_35251f… PenService_35251f6f
+Stopped  perceptionsimulat… Windows Perception Simulation Service
+Stopped  PerfHost           Leistungsindikator-DLL-Host
+Running  PhoneSvc           Telefondienst
+Running  PimIndexMaintenan… Kontaktdaten_35251f6f
+Stopped  pla                Leistungsprotokolle und -warnungen
+Running  PlantronicsUpdate… Plantronics Update Service
+Running  PlugPlay           Plug & Play
+Stopped  Pml Driver HPZ12   Pml Driver HPZ12
+Running  PolicyAgent        IPsec-Richtlinien-Agent
+Running  Power              Stromversorgung
+Stopped  PrintDeviceConfig… Konfigurationsdienst für Druckgeräte
+Stopped  PrintNotify        Druckererweiterungen und -benachricht…
+Stopped  PrintScanBrokerSe… PrintScanBrokerService
+Stopped  PrintWorkflowUser… PrintWorkflow_35251f6f
+Running  ProfSvc            Benutzerprofildienst
+Stopped  PushToInstall      Windows PushToInstall-Dienst
+Running  QcomWlanSrv        Qualcomm Atheros WLAN Driver Service
+Stopped  QWAVE              Verbessertes Windows-Audio/Video-Stre…
+Stopped  RasAuto            Verwaltung für automatische RAS-Verbi…
+Running  RasMan             RAS-Verbindungsverwaltung
+Stopped  refsdedupsvc       ReFS-Deduplizierungsdienst
+Stopped  RemoteAccess       Routing und RAS
+Stopped  RemoteRegistry     Remoteregistrierung
+Stopped  RetailDemo         Dienst für Einzelhandelsdemos
+Running  RmSvc              Funkverwaltungsdienst
+Running  RpcEptMapper       RPC-Endpunktzuordnung
+Stopped  RpcLocator         RPC-Locator
+Running  RpcSs              Remoteprozeduraufruf (RPC)
+Running  RstMwService       Intel(R) Storage Middleware Service
+Running  RtkAudioUniversal… Realtek Audio Universal Service
+Running  Sage AutoUpdate M… Sage AutoUpdate Manager Service v2
+Stopped  Sage Cloud Connec… Sage Cloud Connectivity Client
+Stopped  Sage50Communicati… Sage 50 Kommunikationsdienst
+Running  SageDB 8.0         SageDB 8.0
+Running  SageLoggingService Sage Logging Service
+Running  SageMultiUserServ… Sage Mehrbenutzerdienst 4.0
+Running  SamSs              Sicherheitskonto-Manager
+Stopped  SCardSvr           Smartcard
+Stopped  ScDeviceEnum       Smartcard-Geräteaufzählungsdienst
+Running  Schedule           Aufgabenplanung
+Stopped  SCPolicySvc        Richtlinie zum Entfernen der Scmartca…
+Stopped  SDRSVC             Windows-Sicherung
+Running  seclogon           Sekundäre Anmeldung
+Running  SecurityHealthSer… Windows-Sicherheitsdienst
+Stopped  SEMgrSvc           Zahlungs- und NFC/SE-Manager
+Running  SENS               Benachrichtigungsdienst für Systemere…
+Stopped  Sense              Sense
+Stopped  SensorDataService  Sensordatendienst
+Running  SensorService      Sensordienst
+Stopped  SensrSvc           Sensorüberwachungsdienst
+Running  SessionEnv         Konfiguration für Remotedesktops
+Running  SessionSvc         Session Detection
+Running  SharedAccess       Gemeinsame Nutzung der Internetverbin…
+Running  ShellHWDetection   Shellhardwareerkennung
+Stopped  shpamsvc           Shared PC Account Manager
+Stopped  smphost            Microsoft-SMP für Speicherplätze
+Stopped  SmsRouter          Microsoft Windows SMS-Routerdienst.
+Stopped  SNMPTrap           SNMP-Trap
+Running  Spooler            Druckwarteschlange
+Stopped  sppsvc             Software Protection
+Running  SQLWriter          SQL Server VSS Writer
+Running  SSDPSRV            SSDP-Suche
+Stopped  ssh-agent          OpenSSH Authentication Agent
+Running  SstpSvc            SSTP-Dienst
+Running  StateRepository    StateRepository-Dienst
+Stopped  Steam Client Serv… Steam Client Service
+Running  StiSvc             Windows-Bilderfassung (WIA)
+Running  StorSvc            Speicherdienst
+Running  SupportAssistAgent Dell SupportAssist
+Stopped  svsvc              Echtzeit-Datenträgerprüfung
+Stopped  swprv              Microsoft-Softwareschattenkopie-Anbie…
+Running  SysMain            SysMain
+Running  SystemEventsBroker Systemereignissebroker
+Stopped  TapiSrv            Telefonie
+Running  TbtHostController… Thunderbolt(TM) Application Launcher
+Running  TbtP2pShortcutSer… Thunderbolt(TM) Peer to Peer Shortcut
+Running  TeamViewer         TeamViewer
+Running  TermService        Remotedesktopdienste
+Running  TextInputManageme… Texteingabeverwaltungsdienst
+Running  Themes             Designs
+Stopped  TieringEngineServ… Storage Tiers Management
+Running  TimeBrokerSvc      Zeitbroker
+Running  TISmartAmpService  TI SmartAmp Service
+Running  TokenBroker        Web Account Manager
+Running  TrkWks             Überwachung verteilter Verknüpfungen …
+Stopped  TroubleshootingSvc Dienst für empfohlene Problembehandlu…
+Stopped  TrustedInstaller   Windows Modules Installer
+Stopped  tzautoupdate       Automatische Zeitzonenaktualisierung
+Running  UdkUserSvc_35251f… Udk-Benutzerdienst_35251f6f
+Stopped  UevAgentService    User Experience Virtualization-Dienst
+Running  UmRdpService       Anschlussumleitung für Remotedesktopd…
+Running  UnistoreSvc_35251… Benutzerdatenspeicher _35251f6f
+Stopped  upnphost           UPnP-Gerätehost
+Running  UserDataSvc_35251… Benutzerdatenzugriff_35251f6f
+Running  UserManager        Benutzer-Manager
+Running  UsoSvc             Update Orchestrator Service
+Running  VaultSvc           Anmeldeinformationsverwaltung
+Stopped  vds                Virtueller Datenträger
+Running  vmcompute          Hyper-V-Hostserverdienst
+Stopped  vmicguestinterface Hyper-V-Gastdienstschnittstelle
+Stopped  vmicheartbeat      Hyper-V-Taktdienst
+Stopped  vmickvpexchange    Hyper-V-Datenaustauschdienst
+Stopped  vmicrdv            Hyper-V-Remotedesktopvirtualisierungs…
+Stopped  vmicshutdown       Hyper-V-Dienst zum Herunterfahren des…
+Stopped  vmictimesync       Hyper-V-Dienst für Zeitsynchronisieru…
+Stopped  vmicvmsession      Hyper-V PowerShell Direct-Dienst
+Stopped  vmicvss            Hyper-V-Volumeschattenkopie-Anforderer
+Running  vmms               Hyper-V-Verwaltung für virtuelle Comp…
+Stopped  VSInstallerElevat… Visual Studio Installer Elevation Ser…
+Stopped  VSS                Volumeschattenkopie
+Stopped  VSStandardCollect… Visual Studio Standard Collector Serv…
+Running  W32Time            Windows-Zeitgeber
+Stopped  WaaSMedicSvc       WaaSMedicSvc
+Stopped  WalletService      WalletService
+Stopped  WarpJITSvc         Warp JIT Service
+Running  WavesSysSvc        Waves Audio Services
+Stopped  wbengine           Blockebenen-Sicherungsmodul
+Running  WbioSrvc           Windows-Biometriedienst
+Running  Wcmsvc             Windows-Verbindungs-Manager
+Stopped  wcncsvc            Windows-Sofortverbindung - Konfigurat…
+Running  WDDriveService     WD Drive Manager
+Running  WdiServiceHost     Diagnosediensthost
+Running  WdiSystemHost      Diagnosesystemhost
+Running  WdNisSvc           Microsoft Defender Antivirus-Netzwerk…
+Running  WebClient          WebClient
+Running  webthreatdefsvc    Web Threat Defense-Dienst
+Running  webthreatdefusers… Web Threat Defense-Benutzerdienst_352…
+Stopped  Wecsvc             Windows-Ereignissammlung
+Stopped  WEPHOSTSVC         Hostdienst für Windows Encryption Pro…
+Stopped  wercplsupport      Unterstützung in der Systemsteuerung …
+Stopped  WerSvc             Windows-Fehlerberichterstattungsdienst
+Stopped  WFDSConMgrSvc      Verbindungs-Manager-Dienst von Wi-Fi …
+Running  whesvc             Windows-Integrität und optimierte Obe…
+Stopped  WiaRpc             Ereignisse zum Abrufen von Standbilde…
+Running  WinDefend          Microsoft Defender Antivirus-Dienst
+Running  WinHttpAutoProxyS… WinHTTP-Web Proxy Auto-Discovery-Dien…
+Running  Winmgmt            Windows-Verwaltungsinstrumentation
+Stopped  WinRM              Windows-Remoteverwaltung (WS-Verwaltu…
+Stopped  wisvc              Windows-Insider-Dienst
+Running  WlanSvc            Automatische WLAN-Konfiguration
+Stopped  wlidsvc            Anmelde-Assistent für Microsoft-Konten
+Stopped  wlpasvc            Dienst "Assistent für lokale Profile"
+Stopped  WManSvc            Windows-Verwaltungsdienst
+Running  wmiApSrv           WMI-Leistungsadapter
+Running  WMIRegistrationSe… Intel(R) Management Engine WMI Provid…
+Stopped  WMPNetworkSvc      Windows Media Player-Netzwerkfreigabe…
+Stopped  workfolderssvc     Arbeitsordner
+Stopped  WpcMonSvc          Jugendschutz
+Stopped  WPDBusEnum         Enumeratordienst für tragbare Geräte
+Running  WpnService         Windows-Pushbenachrichtigungssystemdi…
+Running  WpnUserService_35… Windows-Pushbenachrichtigungs-Benutze…
+Running  WSAIFabricSvc      WSAIFabricSvc
+Running  wscsvc             Sicherheitscenter
+Running  WSearch            Windows Search
+Running  WSLService         WSL Service
+Stopped  wuauserv           Windows Update
+Stopped  wuqisvc            Microsoft-Erkenntnisse zu Nutzung und…
+Stopped  WwanSvc            WWAN - automatische Konfiguration
+Stopped  XblAuthManager     Xbox Live Authentifizierungs-Manager
+Stopped  XblGameSave        Xbox Live-Spiele speichern
+Stopped  XboxGipSvc         Xbox Accessory Management Service
+Stopped  XboxNetApiSvc      Xbox Live-Netzwerkservice
+

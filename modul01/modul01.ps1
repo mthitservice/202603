@@ -33,3 +33,6 @@ Get-aduser -filter *
 Get-Module -ListAvailable
 
 Import-Module Microsoft.Graph   
+
+$cert = (Get-ChildItem "Cert:\CurrentUser\MY" -CodeSigningCert)[1]
+Set-AuthenticodeSignature -FilePath .\modul01.ps1 -Certificate $cert
